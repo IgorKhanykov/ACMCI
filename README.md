@@ -14,7 +14,7 @@ The calculations were performed on a home laptop manufactured in 2014.
 
 Field of sciences: intersection of image processing and unsupervised learning.
 Task: color image segmentation, multiple partitions.
-Task execution technique: cluster analysis.
+Task execution technique: cluster analysis. Programming language: MATLAB 
 
 Sources of original test images:
 <https://sipi.usc.edu/database/>;
