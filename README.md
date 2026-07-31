@@ -16,10 +16,9 @@ Field of sciences: intersection of image processing and unsupervised learning.
 Task: color image segmentation, multiple partitions.
 Task execution technique: cluster analysis.
 
-Sources of preceseed images:
+Sources of original test images:
 <https://sipi.usc.edu/database/>;
 <https://en.wikipedia.org/wiki/Aurora>;
-<>
 
 
 
