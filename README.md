@@ -9,10 +9,19 @@ The repository now contains the first results of agglomerative cluster processin
 
 Note: The obtained results are preliminary, as the program did not achieve the control value for a cluster count of 1 (the approximation error is higher than the control value). However, the results demonstrate the success of the software-algorithmic approach to reducing the number of calculations, allowing for approximate partitions, albeit not precisely, to be obtained, which with conventional agglomerative calculations would require 2^47 iterations of loops to process arrays of 256^3 cells.
 
-The calculations were performed on a home laptop manufactured in 2014. Time costs for processing standart color Lena, 512x512, image is about 900 seconds.
+Time costs for processing standart color Lena, 512x512, image is about 900 seconds. Color image 4-1-07 "Jelly Beans 1", 256x256 - about 90 seconds. Color image wash-ir "Washington, D.C." (infra-red) - about 14000 seconds. Image "Aurora Borealis", 3008 - about 24000 sec.
+The calculations were performed on a home laptop manufactured in 2014. 
 
-Field of science: unsupervised learning.
-Execution technique: cluster analysis 
+Field of sciences: intersection of image processing and unsupervised learning.
+Task: color image segmentation, multiple partitions.
+Task execution technique: cluster analysis.
+
+Sources of preceseed images:
+<https://sipi.usc.edu/database/>;
+<https://en.wikipedia.org/wiki/Aurora>;
+<>
+
+
 
 Igor Khanykov
 
