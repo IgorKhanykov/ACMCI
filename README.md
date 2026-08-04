@@ -20,9 +20,7 @@ Sources of original test images:
 <https://sipi.usc.edu/database/>;
 <https://en.wikipedia.org/wiki/Aurora>;
 <https://ru.freepik.com/free-photo/river-surrounded-by-forests-cloudy-sky-thuringia-germany_13291760.htm>
-<https://es.pinterest.com/pin/683702787209856437/
-<img width="786" height="70" alt="image" src="https://github.com/user-attachments/assets/f3c537d6-62fc-45dc-a193-a30a9526b3d8" />
->
+<https://es.pinterest.com/pin/683702787209856437/>
 
 
 
