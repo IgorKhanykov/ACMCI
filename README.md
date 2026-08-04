@@ -22,7 +22,7 @@ Sources of original test images:
 <https://ru.freepik.com/free-photo/river-surrounded-by-forests-cloudy-sky-thuringia-germany_13291760.htm>
 <https://es.pinterest.com/pin/683702787209856437/>
 
-
+Image data licence CC-BY
 
 
 
